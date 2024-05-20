@@ -1,0 +1,49 @@
+body{
+    background-color:darkolivegreen;
+}
+h1{
+    color:whitesmoke;
+    text-align:center;
+    border:5px;
+    text-shadow: 2px 2px burlywood ;
+}
+h5{
+    background-color:orangered;
+    margin-right:70vw;
+    text-align: center;
+    text-decoration:underline;
+}
+p{
+    color:whitesmoke;
+    font-style: italic;
+}
+.one{
+    float:right;
+    padding:40px;
+    margin-left: 40px;
+    margin-top:80px;
+    width: 250px;
+}
+.two{
+    float:right;
+    margin-right:40px;
+    margin-left:50px;
+    padding-right: 50px;
+    margin-up:250px;
+    width: 250px;
+}
+a{
+    padding: 5vw;
+    margin-left:10vw;
+}
+section{
+    margin-left: 180px;
+    margin-top:90px;
+}
+footer{
+    margin-left: 180px;
+    text-decoration:underline;
+}
+.three{
+    color: black;
+}
